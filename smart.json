@@ -1,0 +1,8 @@
+{
+  "name": "bitlywrap",
+  "description": "Simple wrapper for the Bitly npm module",
+  "homepage": "https://github.com/lacco/meteor-bitlywrap",
+  "author": "Kai Schlichting",
+  "version": "0.1.0",
+  "git": "https://github.com/lacco/meteor-bitlywrap.git"
+}
